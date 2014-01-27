@@ -1,36 +1,27 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Becca Naul</title>
-		<link rel="stylesheet" href="style.css">
-		<link href='http://fonts.googleapis.com/css?family=Playfair+Display:900,700italic' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:400,600|Open+Sans+Condensed:300,700|Open+Sans:600italic,400,600' rel='stylesheet' type='text/css'>
-	</head>
-	
-	<body>
-			<div class="nav">
-					<div class="left">
-					<a class="button" href="about.html">ABOUT</a>
-					</div>
-					<div class="logo">
-					<a href="index.html"><img src="beccanaul.svg"></a>
-					</div>
-					<div class="right">
-					<a class="button" href="contact.html">CONTACT </a>
-					</div>
-			</div>
-		
+---
+layout: default
+title: Your New Jekyll Site
+---
 
-		<div class="blog">
-			<h2>January Dribbble Meetup</h2>
-			<h4>January 19, 2014</h4>
-			<p>I'm pretty terrible when it comes to getting off the internet and meeting people IRL. I always want to go, but after a long day of work and a mild case of social anxiety,<a href="blogpost_dribbb.html"> read more > </a>
-			<h2>First Day at Makersquare!</h2>
-			<h4>January 19, 2014</h4>
-			<p>Today, I started a 10-week part time course for Front End Dev. <a href="blogpost.html"> read more > </a>
-			</p>
-		</div>	
+<div id="home">
+  <div class="wrapper">		
 
+			
+    {% for post in site.posts %}
+    <div class="container">	
+       {{ post.hero }}
 
-	</body>
-</html>	
+    <div class="post">
+       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+       <h4>{{ post.date | date_to_string }}</h4>
+       {{ post.excerpt }}
+       <a href="{{ post.url }}">read more></a>
+    </div>
+    </div>
+    
+    {% endfor %}
+
+  </div>
+  </div>
+  </div>
+</div>
