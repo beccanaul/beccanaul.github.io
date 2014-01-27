@@ -178,14 +178,6 @@ footer{
 	position: relative;
 }
 
-.divide {
-	max-width: 960px;
-	width: 80%;
-	margin: 40px auto 40px auto;
-	clear: both;
-	border-top: 3px solid #B3B3B3;
-	position: relative;
-}
 
 
 .contact {
@@ -208,6 +200,14 @@ footer{
 .contact a:hover {
 	text-decoration: none;
 	color: #2AD8D3;
+}
+
+.contact:after{
+	visibility: hidden;
+	height: 0;
+	content: "";
+	display:block;
+	clear: both;
 }
 /*post/blog styles*/
 
@@ -268,3 +268,14 @@ img {
 	display:block;
 	clear: both;
 }
+
+.social{
+	float: left;
+	padding-right: 1%;
+	height: 20px;
+	width: 20px;
+	padding-top:1%;
+}
+
+
+
