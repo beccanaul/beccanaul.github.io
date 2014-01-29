@@ -1,7 +1,4 @@
-* {
-  margin: 0;
-  padding: 0;
-}
+
 
 html, body { height: 100%; }
 
@@ -21,6 +18,7 @@ h1 {
 	letter-spacing: 4px;
 	color: #B3B3B3;
 }
+
 h2 {
 	font-family: 'Source Code Pro', serif;
 	font-size: 38px;
@@ -29,6 +27,7 @@ h2 {
 	font-weight: 400;
 	padding: 15px 0px 15px 0px;
 }
+
 h2 a{
 	font-family: 'Source Code Pro', serif;
 	font-size: 38px;
@@ -37,10 +36,10 @@ h2 a{
 	font-weight: 400;
 	padding: 0px 0px 15px 0px;
 }
+
 h2 a:hover {
 	    color: #2AD8D3;
 }
-
 
 h2 span { 
 	position: absolute; 
@@ -137,14 +136,10 @@ img {
 	text-align: center;
 	}
 
-
-
 .nav .button:hover {
 	border: 3px solid #ffffff;
     color: #ffffff;
 }
-
-
 
 .logo {
 	width: 40%;
@@ -177,8 +172,6 @@ footer{
 	border-top: 3px solid #B3B3B3;
 	position: relative;
 }
-
-
 
 .contact {
 	color: #B3B3B3;
@@ -213,7 +206,6 @@ footer{
 
 img .top{
 	width: 100%;
-	max-width: 960px;
 	float: left;
 	margin-bottom: 40px;
 	position: relative; 
@@ -221,13 +213,10 @@ img .top{
 }
 
 img {
-	width: 100%;
-	max-width: 960px;
+	max-width: 100%;
 	float: left;
 	padding: 20px -20px 20px -20px;
 }
-
-
 
 .container {
 	background: #ffffff;
@@ -253,6 +242,7 @@ img {
 	display:block;
 	clear: both;
 }
+
 .post:after{
 	visibility: hidden;
 	height: 0;
@@ -278,4 +268,7 @@ img {
 }
 
 
-
+@media (min-width: 700px) { 
+	img {max-width: 960px;
+		width: 100%;}
+	} 
