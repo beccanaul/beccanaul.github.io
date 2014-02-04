@@ -25,6 +25,7 @@ h2 {
 	color: #B3B3B3;
 	line-height: 55px;
 	padding: 5px 0px 5px 0px;
+	vertical-align: center;
 }
 
 h2 a{
@@ -34,6 +35,8 @@ h2 a{
 	color: #B3B3B3;
 	padding: 0px 0px 15px 0px;
 	letter-spacing: 1px;
+	vertical-align: center;
+
 }
 
 h2 a:hover {
