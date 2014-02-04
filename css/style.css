@@ -24,7 +24,6 @@ h2 {
 	font-size: 60px;
 	color: #B3B3B3;
 	line-height: 55px;
-	padding: 5px 0px 5px 0px;
 	text-align: center;
 }
 
@@ -33,7 +32,6 @@ h2 a{
 	font-size: 60px;
 	line-height: 55px;
 	color: #B3B3B3;
-	padding: 0px 0px 15px 0px;
 	letter-spacing: 1px;
 	text-align: center;
 
@@ -207,7 +205,6 @@ footer{
 img .top{
 	width: 100%;
 	float: left;
-	margin-bottom: 40px;
 	position: relative; 
 }
 
