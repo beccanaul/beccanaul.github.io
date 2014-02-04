@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "SplashThat: a prettier online ticketing solution"
+date:   2014-01-29 14:35:21
+categories: blog
+hero: <img src="/assets/patakon.png" style="top">
+---
+This weekend, I spent a little bit of time helping my friend Juan Llano get set up for the preview of his new foodtruck: Patakon. I had used eventbrite before, but because he doesn't have a website up yet, we both wanted more control of the design than eventbrite offers.
+
+After a little bit of searching around google, I remembered having seen a splashthat page last SXSW and finding it pretty impressive. 
+
+<!--more-->
+
+A couple of hours later and we had a functioning ticketing system that showed of the vibrant side of a new brand. 
+
+Splashthat is by no-means perfect. I would LOVE the ability to add my own webfonts (and find the fact that it's not an option is a little weird). I was able to access paragraph styles in source code, but there were elements that, for the life of me, I couldn't figure out how to alter, like the color of the side bar. If you're going to let me at a little bit of code, why not just give me the whole thing?
+
+You can check out (or buy tickets!) the page <a href="https://patakonpreview.splashthat.com/"> HERE </a>
+
+My next step is to design and build the PATAKON website (my second dev project after this). I plan on documenting the process here so watch this space for some potential hair pulling. Just kidding. It's actually really surprising how confident I feel in my front end coding capabilities going into week 4 of makersquare. Definitely a testiment to our awesome instructors. 

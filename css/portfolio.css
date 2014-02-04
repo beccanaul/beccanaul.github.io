@@ -1,4 +1,7 @@
-
+* {
+  margin: 0;
+  padding: 0;
+}
 
 html, body { height: 100%; }
 
@@ -20,19 +23,21 @@ h1 {
 }
 
 h2 {
-	font-family: 'Grumpy-Black24', serif;
+	font-family: 'Source Code Pro', serif;
 	font-size: 38px;
 	color: #6AEABB;
-	line-height: 34px;
-	padding: 15px 0px 5px 0px;
+	line-height: 40px;
+	font-weight: 400;
+	padding: 15px 0px 15px 0px;
 }
 
 h2 a{
-	font-family: 'Grumpy-Black24', serif;
+	font-family: 'Source Code Pro', serif;
 	font-size: 38px;
 	color: #6AEABB;
+	line-height: 40px;
+	font-weight: 400;
 	padding: 0px 0px 15px 0px;
-	letter-spacing: 1px;
 }
 
 h2 a:hover {
@@ -45,7 +50,8 @@ h2 span {
    left: 0; 
    width: 100%; 
    color: white; 
-   font: bold 24px/45px Helvetica, Sans-Serif;   
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.7);
    padding: 10px; 
@@ -58,6 +64,7 @@ h4 {
 	color: #B3B3B3;
 	text-transform: uppercase;
 	font-weight: 400;
+	padding: 5px 0px 5px 0px;
 }
 
 ul {
@@ -198,77 +205,54 @@ footer{
 	display:block;
 	clear: both;
 }
-/*post/blog styles*/
-
-img .top{
-	width: 100%;
-	float: left;
-	margin-bottom: 40px;
-	position: relative; 
-}
-
-img {
-	max-width: 100%;
-	float: left;
-	padding: 20px -20px 20px -20px;
-}
-
-.container {
-	background: #ffffff;
-	width: 80%;
-	max-width: 960px;
-	margin: 0px auto 40px auto;
-	position: relative;
-
-}
-
-.post {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 1.2em;
-	padding: 5% 10% 10% 10%;
-	color: #666666;
-	clear: left;
-}
-
-.img:after {
-	visibility: hidden;
-	height: 0;
-	content: "";
-	display:block;
-	clear: both;
-}
-
-.post:after{
-	visibility: hidden;
-	height: 0;
-	content: "";
-	display:block;
-	clear: both;
-}
-
-.blog:after{
-	visibility: hidden;
-	height: 0;
-	content: "";
-	display:block;
-	clear: both;
-}
-
 .social{
 	float: left;
 	padding-right: 1%;
-	height: 25px;
-	width: 25px;
+	height: 20px;
+	width: 20px;
+	padding-top:1%;
 }
 
-.test {
-	font-family: "Playfair Display";
-	font-size:6em;
-	text-align: center;
-	color: #B3B3B3;
+
+/*portfolio grid */
+
+.project {
+	background-color: #ffffff;
+}
+
+.text {
+	padding: 5%;
+	vertical-align: center;
+}
+
+@media (min-width: 300px) { 
+	.project {
+		width: 100%;
+		min-height: 400px;
+	}
 }
 
 @media (min-width: 700px) { 
-	img {max-width: 960px;
-		width: 100%;}
+	.project {
+		width: 50%;
+		min-height: 300px;
+		float: left;
 	} 
+}
+
+@media (min-width: 1100px) { 
+	.project {
+		width: 30%;
+		float: left;
+	}
+}
+
+
+@media (min-width: 1400px) { 
+	.project {
+		width: 20%;
+		float: left;
+	} 
+}
+
+
