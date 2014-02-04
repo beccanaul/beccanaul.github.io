@@ -21,16 +21,17 @@ h1 {
 
 h2 {
 	font-family: 'Grumpy-Black24', serif;
-	font-size: 38px;
-	color: #6AEABB;
-	line-height: 34px;
-	padding: 15px 0px 5px 0px;
+	font-size: 60px;
+	color: #B3B3B3;
+	line-height: 55px;
+	padding: 5px 0px 5px 0px;
 }
 
 h2 a{
 	font-family: 'Grumpy-Black24', serif;
-	font-size: 38px;
-	color: #6AEABB;
+	font-size: 60px;
+	line-height: 55px;
+	color: #B3B3B3;
 	padding: 0px 0px 15px 0px;
 	letter-spacing: 1px;
 }
