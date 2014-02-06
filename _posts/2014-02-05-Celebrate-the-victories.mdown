@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "A good piece of advice"
+date:   2014-02-05 14:35:21
+categories: blog
+hero: <img src="/assets/patakon03.JPG" style="top">
+---
+<h4 sytle="font-size: 42px;">Celebrate your victories every day" <a href="https://twitter.com/matt_jared"> @matt_jared </a>
+
+We've had amazing speakers every week at Makersquare, but Matt Jared's talk tonight really resonated. He spoke about his personal learning to code experience and imposter syndrome. 
+<br><br>
+<!--more-->
+His best piece of advice for getting past feeling like you're doing everything wrong and know nothing? Celebrating when you figure something out. So, as a celebration and as promised: My work in progress on the patakon site:
+<br><br>
+<img src="assets/patakon_ipad_wip.png">
+<br><br>
+Showing unfinished work publically is somsething I don't get to do very often because of various NDAs (part of the reason I suck at dribbble), so this is really fun/slighty nerve racking to put out into the world, because it's so far beyond NOT perfect.
+<br><br>
+But there are some victories in there.
+<br><br>
+I'm using the foundation framework, so my menu collapses to one column on a phone. 
+<br><br>
+I also figured out how to make that decorative divider expand across the page without filling by putting my design ontop of a repeating background image of a line.
+<br><br>
+Totally my first time not copying and pasting an embed code for a google map. Haven't figured out how to put a marker on it yet (?), but there's always more to work on.
