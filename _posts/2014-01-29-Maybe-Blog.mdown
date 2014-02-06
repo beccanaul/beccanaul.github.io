@@ -3,7 +3,7 @@ layout: post
 title:  "SplashThat: a prettier online ticketing solution"
 date:   2014-02-03 14:35:21
 categories: blog
-hero: 
+hero: <img src="/assets/patakon03.jpg" style="top">
 ---
 This weekend, I spent a little bit of time helping my friend Juan Llano get set up for the preview of his new foodtruck: Patakon. I had used eventbrite before, but because he doesn't have a website up yet, we both wanted more control of the design than eventbrite offers.
 <br><br>
