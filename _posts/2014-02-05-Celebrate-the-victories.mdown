@@ -12,8 +12,9 @@ We've had amazing speakers every week at Makersquare, but Matt Jared's talk toni
 <!--more-->
 His best piece of advice for getting past feeling like you're doing everything wrong and know nothing? Celebrating when you figure something out. So, as a celebration and as promised: My work in progress on the patakon site:
 <br><br>
-<img src="/assets/PATAKON_ipad_wip.png" style="top">
+<img src="/assets/PATAKON_ipad_wip.png" style="border: 1px #b3b3b3 solid">
 <br><br>
+<p>
 Showing unfinished work publically is somsething I don't get to do very often because of various NDAs (part of the reason I suck at dribbble), so this is really fun/slighty nerve racking to put out into the world, because it's so far beyond NOT perfect.
 <br><br>
 But there are some victories in there.
