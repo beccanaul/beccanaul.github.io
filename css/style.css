@@ -203,6 +203,15 @@ footer{
 }
 /*post/blog styles*/
 
+.quote {
+	font-family: 'Grumpy-Black24', serif;
+	font-size: 24px;
+	color: #B3B3B3;
+	line-height: 55px;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
 img .top{
 	width: 100%;
 	float: left;
