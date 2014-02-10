@@ -5,7 +5,7 @@ date:   2014-02-05 14:35:21
 categories: blog
 hero: 
 ---
-<h4 sytle="font-size: 42px;">Celebrate your victories every day" </h4><a href="https://twitter.com/matt_jared"> @matt_jared </a>
+<h1 sytle="font-size: 42px;">Celebrate your victories every day" </h1><a href="https://twitter.com/matt_jared"> @matt_jared </a>
 
 We've had amazing speakers every week at Makersquare, but Matt Jared's talk tonight really resonated. He spoke about his personal learning to code experience and imposter syndrome. 
 <br><br>

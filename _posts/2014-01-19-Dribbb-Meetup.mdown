@@ -7,6 +7,7 @@ hero:
 ---
 <p>With the combination of a huge launch at work and starting this new front-end class, I've been pretty terrible when it comes to getting off the computer and talking to people IRL for a couple of weeks. Thankfully, this Thursday, after some gentle nudging (forcing) by my coworkers, I ended up at the Gingerman for a dribbble meetup. 
 <!--more-->
+<br></br>
 And it was pretty much exactly what the doctor ordered. I even got to meet <a href="http://dribbble.com/luigi">Luigi at Guerrilla Suit </a> whose work I've been following (stalking) for the past couple of years. </p>
 <br></br>
 		
