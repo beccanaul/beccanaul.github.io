@@ -7,13 +7,10 @@ hero: <img src="/assets/gewip05.JPG">
 ---
 A site I've been working on for a while went live this morning. You can view it at <a href="https://globaledit.com"> globaledit.com</a> or hit read more for a few wireframe process shots.
 <!--more-->
-<h4>As promised:<h4>
+<h4>As promised:</h4>
 <br><br>
-<img src="/assets/gewip01.JPG">
-<br><br>
-<img src="/assets/gewip02.JPG">
-<br><br>
-<img src="/assets/gewip03.JPG">
-<br><br>
-<img src="/assets/gewip04.JPG">
-<br><br>More coming soon :) 
+<img src="/assets/gewip01.JPG" style="margin-bottom: 20px">
+=<img src="/assets/gewip02.JPG" style="margin-bottom: 20px">
+<img src="/assets/gewip03.JPG" style="margin-bottom: 20px">
+<img src="/assets/gewip04.JPG" style="margin-bottom: 20px">
+<br><br><p>More coming soon :) </p>
