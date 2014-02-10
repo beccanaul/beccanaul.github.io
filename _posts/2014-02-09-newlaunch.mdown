@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "It's aLIVE"
+date:   2014-02-09 08:35:21
+categories: blog
+hero: <img src="/assets/gewip05.JPG">
+---
+A site I've been working on for a while went live this morning. You can view it at <a href="https://globaledit.com"> globaledit.com</a> or hit read more for a few wireframe process shots.
+<!--more-->
+<img src="/assets/gewip01.JPG">
+<img src="/assets/gewip02.JPG">
+<img src="/assets/gewip03.JPG">
+<img src="/assets/gewip04.JPG">
+More coming soon :) 
