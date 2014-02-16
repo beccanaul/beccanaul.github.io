@@ -7,10 +7,10 @@ hero:
 ---
 <div class="quote">"Celebrate your victories every day" <a href="https://twitter.com/matt_jared"> @matt_jared </a> </div>
 
-We've had amazing speakers every week at Makersquare, but Matt Jared's talk tonight really resonated. He spoke about his personal learning to code experience and imposter syndrome. 
+We've had absolutely amazing speakers every week at Makersquare, but Matt Jared's talk tonight really resonated. He spoke about his personal learning to code experience and the unavoidable "imposter syndrome." 
 <br><br>
 <!--more-->
-His best piece of advice for getting past feeling like you're doing everything wrong and know nothing? Celebrating when you figure something out. So, as a celebration and as promised: My work in progress on the patakon site:
+His best piece of advice for getting past feeling like you're doing everything wrong and know nothing? Celebrating when you figure something out. So, allow me to take a moment to celebrate my work in progress on the patakon site:
 <br><br>
 <img src="/assets/PATAKON_ipad_wip.png" style="border: 1px #b3b3b3 solid; margin-bottom: 45px;">
 <br><br>
@@ -21,6 +21,18 @@ But there are some victories in there.
 <br><br>
 I'm using the foundation framework, so my menu collapses to one column on a phone. 
 <br><br>
-I also figured out how to make that decorative divider expand across the page without filling by putting my design ontop of a repeating background image of a line.
+I also figured out how to make that decorative divider expand across the page without just growing in size by putting my design ontop of a repeating background image of a line. 
+{% highlight css %}
+
+<!-- Setting the max height of the image so it doesn't just keep growing to fill the width -->
+ .decoration {
+ 	max-height: 172px;
+ }
+<!-- inserting the background svg line -->
+.divider {
+	background-image: url(../assets/divider-side2.svg);
+	background-repeat: repeat;
+}
+{% endhighlight %}
 <br><br>
 Totally my first time not copying and pasting an embed code for a google map. Haven't figured out how to put a marker on it yet (?), but there's always more to work on.
