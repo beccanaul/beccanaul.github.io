@@ -17,7 +17,7 @@ Splashthat is by no-means perfect. I would LOVE the ability to add my own webfon
 <br><br>
 You can check out (or buy tickets! UPDATE: SOLD OUT) the page <a href="https://patakonpreview.splashthat.com/"> HERE </a>
 
-<img src="/assets/patakon.png" style="top">
 
-<br><br><br>
+
+<br><br>
 My next step is to design and build the PATAKON website (my second dev project after this). I plan on documenting the process here so watch this space for some potential hair pulling. Just kidding. It's actually really amazing how confident I feel in my front end coding capabilities going into week 4 of makersquare. Definitely a testiment to our awesome instructors. 
