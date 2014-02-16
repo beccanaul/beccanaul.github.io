@@ -22,7 +22,7 @@ But there are some victories in there.
 I'm using the foundation framework, so my menu collapses to one column on a phone. 
 <br><br>
 I also figured out how to make that decorative divider expand across the page without just growing in size by putting my design ontop of a repeating background image of a line. 
-{% highlight css %}
+<div style="max-width: 70%">{% highlight css %}
 
 <!-- Setting the max height of the image so it doesn't just keep growing to fill the width -->
  .decoration {
@@ -34,5 +34,6 @@ I also figured out how to make that decorative divider expand across the page wi
 	background-repeat: repeat;
 }
 {% endhighlight %}
+</div>
 <br><br>
 Totally my first time not copying and pasting an embed code for a google map. Haven't figured out how to put a marker on it yet (?), but there's always more to work on.
