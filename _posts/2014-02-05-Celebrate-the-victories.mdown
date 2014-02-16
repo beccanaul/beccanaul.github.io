@@ -35,6 +35,6 @@ I also figured out how to make that decorative divider expand across the page wi
 	background-repeat: repeat;
 }
 {% endhighlight %}
-</div>
+
 <br><br>
 Totally my first time not copying and pasting an embed code for a google map. Haven't figured out how to put a marker on it yet (?), but there's always more to work on.
