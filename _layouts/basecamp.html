@@ -46,26 +46,27 @@
 		  ga('create', 'UA-47761911-1', 'beccanaul.github.io');
 		  ga('send', 'pageview');
 		</script>
+		<script src="jquery.slides.min.js"> </script>
+		  <script>
+		    $(function(){
+		      $("#slides").slidesjs({
+		        width: 100%,
+		        
+		      });
+		    });
+		  </script>
 		<script src="js/jquery.cbpFWSlider.min.js"></script>
 		<script>
 			$( function() {
-				/*
-				- how to call the plugin:
-				$( selector ).cbpFWSlider( [options] );
-				- options:
-				{
-					// default transition speed (ms)
-					speed : 500,
-					// default transition easing
-					easing : 'ease'
-				}
-				- destroy:
-				$( selector ).cbpFWSlider( 'destroy' );
-				*/
+				
 
 				$( '#cbp-fwslider' ).cbpFWSlider();
+				$( '#cbp-fwslider2' ).cbpFWSlider();
 
 			} );
+			
+
+			
 		</script>
 	</body>
 </html>
